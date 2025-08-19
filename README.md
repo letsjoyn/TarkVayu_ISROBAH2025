@@ -1,12 +1,30 @@
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Sure! Here is a more concise version of your text:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+***
 
-# Step 3: Install the necessary dependencies.
-npm i
+# TarkVayu ISRO BAH 2025 – Air Quality Visualizer
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+**Overview:**  
+TarkVayu provides real-time, hyperlocal, and predictive air quality data for urban and rural areas.
+
+**Key Features:**  
+- Live AQI from ground and satellite sources  
+- 24–72 hour AQI forecasts  
+- Historical AQI trends  
+- Health alerts and recommendations  
+- Push notifications and pollution maps (optional)
+- AI Chatbot(Voice Enabled)
+
+**Tech Stack:**  
+Flutter, React, Node.js, Supabase, Firebase, Maps API, TensorFlowLite, Hugging Face
+
+**Run:**  
+```bash
+git clone https://github.com/letsjoyn/TarkVayu_ISROBAH2025/
 ```
+Follow `/README.md` for setup instructions.
+
+**Contact:**  
+More info at [BAH2025 Event](https://vision.hack2skill.com/event/bah2025)
+
+---
