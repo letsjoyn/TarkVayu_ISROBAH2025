@@ -1,4 +1,4 @@
-Sure! Here is a more concise version of your text:
+Website: https://preview--tarkvayu-air-insight-05.lovable.app/
 
 ***
 
